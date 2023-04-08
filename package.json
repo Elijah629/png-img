@@ -44,7 +44,7 @@
     "test": "npm run lint && ./dev/test",
     "prepublishOnly": "npm run build"
   },
-  "author": "Anton Usmansky <anton.usmansky@gmail.com> (https://github.com/j0tunn)",
+  "author": "Anton Usmansky (https://github.com/j0tunn)",
   "license": "MIT",
   "repository": {
     "type": "git",
