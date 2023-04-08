@@ -44,14 +44,14 @@
     "test": "npm run lint && ./dev/test",
     "prepublishOnly": "npm run build"
   },
-  "author": "Anton Usmansky (https://github.com/j0tunn)",
+  "author": "Elijah629",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gemini-testing/png-img.git"
+    "url": "https://github.com/Elijah629/png-img.git"
   },
   "bugs": {
-    "url": "https://github.com/gemini-testing/png-img/issues"
+    "url": "https://github.com/Elijah629/png-img/issues"
   },
-  "homepage": "https://github.com/gemini-testing/png-img"
+  "homepage": "https://github.com/Elijah629/png-img"
 }
