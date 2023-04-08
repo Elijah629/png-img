@@ -31,7 +31,7 @@
         'pngwtran.c',
         'pngwutil.c',
         'arm/arm_init.c',
-        'arm/filter_neon.S',
+        'arm/filter_neon.sx',
         'arm/filter_neon_intrinsics.c'
       ],
       'include_dirs': [

@@ -1,7 +1,7 @@
 /build/
 /dist/
-/node_modules/
 .vagrant
 win.box
 npm-debug.log
 .sublime-project*
+node_modules

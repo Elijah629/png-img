@@ -4,7 +4,7 @@
  * Copyright (c) 2018 Cosmin Truta
  * Copyright (c) 2014,2016 Glenn Randers-Pehrson
  * Written by James Yu <james.yu at linaro.org>, October 2013.
- * Based on filter_neon.S, written by Mans Rullgard, 2011.
+ * Based on filter_neon.sx, written by Mans Rullgard, 2011.
  *
  * This code is released under the libpng license.
  * For conditions of distribution and use, see the disclaimer
